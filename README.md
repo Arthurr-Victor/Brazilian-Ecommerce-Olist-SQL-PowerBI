@@ -24,13 +24,14 @@ The project aims to answer key business questions. Such as:
 Now, after answering the business questions elaborated above through SQL, we will utilize Power BI to develop three comprehensive dashboards that will provide a final visualization of the analysis results. These dashboards are categorized into three main domains: Sales, Logistics, and Quality.
 
 The **Sales Dashboard** offers insights into sales performance, showcasing key metrics and trends that allow stakeholders to make data-driven decisions. It provides information on top-selling products, revenue trends, and customer buying patterns.  
-![Exemplo de Imagem](https://github.com/Arthurr-Victor/Brazilian-Ecommerce-Olist-SQL-PowerBI/blob/main/Sales Dashboard Brazilian EcommerceOlist.png)  
+![Exemplo de Imagem](https://github.com/Arthurr-Victor/Brazilian-Ecommerce-Olist-SQL-PowerBI/blob/main/Sales%20Dashboard%20Brazilian%20EcommerceOlist.png)
 
 The **Logistics Dashboard** focuses on the order fulfillment process, monitoring key logistics metrics such as delivery times, geographical distribution of customers, and on-time delivery rates. This enables the optimization of the supply chain and delivery operations.  
-![Exemplo de Imagem](https://github.com/Arthurr-Victor/Brazilian-Ecommerce-Olist-SQL-PowerBI/blob/main/Logistic Dashboard Brazilian EcommerceOlist.png)  
+![Exemplo de Imagem](https://github.com/Arthurr-Victor/Brazilian-Ecommerce-Olist-SQL-PowerBI/blob/main/Logistic%20Dashboard%20Brazilian%20EcommerceOlist.png)
+
 
 The **Quality Dashboard** delves into customer feedback and satisfaction. It highlights the most well-received product categories, customer reviews, and overall customer experience ratings. By analyzing this information, we can identify areas for improvement to enhance customer satisfaction.  
-![Exemplo de Imagem](https://github.com/Arthurr-Victor/Brazilian-Ecommerce-Olist-SQL-PowerBI/blob/main/Quality Dashboard Brazilian EcommerceOlist.png)  
+![Exemplo de Imagem](https://github.com/Arthurr-Victor/Brazilian-Ecommerce-Olist-SQL-PowerBI/blob/main/Quality%20Dashboard%20Brazilian%20EcommerceOlist.png)  
 These dashboards are instrumental for enhancing business operations and strategy, allowing for more informed and effective decision-making.  
 
 ## Dependencies
