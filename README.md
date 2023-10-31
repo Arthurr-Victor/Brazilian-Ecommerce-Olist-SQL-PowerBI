@@ -60,7 +60,11 @@ The **Quality Dashboard** delves into customer feedback and satisfaction. It hig
 These dashboards are instrumental for enhancing business operations and strategy, allowing for more informed and effective decision-making.  
 The video showing the complete interaction inside the dashboard is available in "Issues".
 
+A demonstration of the interactive Dashboard....
+
+
 ![OLIST-Dashboards](https://github.com/Arthurr-Victor/Brazilian-Ecommerce-Olist-SQL-PowerBI/assets/127077847/6401f9e9-c54a-41f6-973c-0e67572be42b)
+
 
 # Final Reports
 
